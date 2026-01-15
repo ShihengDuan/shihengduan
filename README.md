@@ -5,7 +5,7 @@
 
 * PhD in Atmospheric Science from University of California, Davis, with a focus on deep learning models for hydroclimate prediction and projection❄️💦⛈️ Bachelor in Environmental Engineering from Beijing Normal University🇨🇳
 * Currently working on climate detection and impacts🌍
-* Python, PyTorch💻🎹🎮🐶😈👩‍❤️‍👨
+* Python, PyTorch💻🎹🎮🐶😈👩‍❤️‍👨👶
 
 
 
